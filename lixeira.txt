@@ -1,0 +1,12 @@
+ <section>
+    <h2>🚀 Sobre Mim</h2>
+    <ul>
+      <li>🎓 Estudante do curso <strong>Sistemas Para Internet</strong></li>
+      <li>💼 Desenvolvendo projetos pessoais com tecnologias modernas</li>
+      <li>📍 Localizado em <strong>Itambé - PE</strong></li>
+      <li>💡 Interesses: Desenvolvimento Web, APIs, DevOps, IA e Banco de Dados</li>
+      <li>📫 Contato: <a href="https://www.linkedin.com/in/filipe-barbosa-/">LinkedIn</a></li>
+    </ul>
+  </section>
+
+  
